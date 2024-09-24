@@ -1,9 +1,0 @@
-{
-	"id": "RxbGm06ri5ffuV4",
-	"json": "{\"id\":\"RxbGm06ri5ffuV4\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/new-arrivals\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/new-arrivals\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/new-arrivals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:46.859Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/new-arrivals",
-	"url": "https://warehouse-theme-metal.myshopify.com/collections/new-arrivals"
-}

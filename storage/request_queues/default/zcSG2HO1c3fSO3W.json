@@ -1,9 +1,0 @@
-{
-	"id": "zcSG2HO1c3fSO3W",
-	"json": "{\"id\":\"zcSG2HO1c3fSO3W\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/audio-accessories\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/audio-accessories\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/audio-accessories\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:42.144Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/audio-accessories",
-	"url": "https://warehouse-theme-metal.myshopify.com/collections/audio-accessories"
-}

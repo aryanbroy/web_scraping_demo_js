@@ -1,9 +1,0 @@
-{
-	"id": "oWENK6wwjE4W0U8",
-	"json": "{\"id\":\"oWENK6wwjE4W0U8\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/led-tvs\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/led-tvs\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/led-tvs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:46.399Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/led-tvs",
-	"url": "https://warehouse-theme-metal.myshopify.com/collections/led-tvs"
-}

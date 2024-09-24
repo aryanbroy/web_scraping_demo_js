@@ -1,9 +1,0 @@
-{
-	"id": "ilk5hjgD3Q1OZSS",
-	"json": "{\"id\":\"ilk5hjgD3Q1OZSS\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/amplifiers\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/amplifiers\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/amplifiers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:40.807Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/amplifiers",
-	"url": "https://warehouse-theme-metal.myshopify.com/collections/amplifiers"
-}

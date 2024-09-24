@@ -1,9 +1,0 @@
-{
-	"id": "ETJjRsVcsmAAypP",
-	"json": "{\"id\":\"ETJjRsVcsmAAypP\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/sales-home\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/sales-home\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/sales-home\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:50.135Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/sales-home",
-	"url": "https://warehouse-theme-metal.myshopify.com/collections/sales-home"
-}

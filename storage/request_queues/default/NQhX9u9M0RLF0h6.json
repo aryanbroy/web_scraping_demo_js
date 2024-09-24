@@ -1,9 +1,0 @@
-{
-	"id": "NQhX9u9M0RLF0h6",
-	"json": "{\"id\":\"NQhX9u9M0RLF0h6\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/earbuds\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/earbuds\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/earbuds\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:44.308Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/earbuds",
-	"url": "https://warehouse-theme-metal.myshopify.com/collections/earbuds"
-}

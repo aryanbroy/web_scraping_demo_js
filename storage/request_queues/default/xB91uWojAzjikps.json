@@ -1,9 +1,0 @@
-{
-	"id": "xB91uWojAzjikps",
-	"json": "{\"id\":\"xB91uWojAzjikps\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/hi-fi\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/hi-fi\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/hi-fi\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:45.573Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/hi-fi",
-	"url": "https://warehouse-theme-metal.myshopify.com/collections/hi-fi"
-}
