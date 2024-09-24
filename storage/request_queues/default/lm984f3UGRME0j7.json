@@ -1,0 +1,9 @@
+{
+	"id": "lm984f3UGRME0j7",
+	"json": "{\"id\":\"lm984f3UGRME0j7\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/blu-ray-dvd-players\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/blu-ray-dvd-players\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/blu-ray-dvd-players\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:42.789Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/blu-ray-dvd-players",
+	"url": "https://warehouse-theme-metal.myshopify.com/collections/blu-ray-dvd-players"
+}

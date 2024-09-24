@@ -1,0 +1,9 @@
+{
+	"id": "xsNQHlN4RygGeNq",
+	"json": "{\"id\":\"xsNQHlN4RygGeNq\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/turntables\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/turntables\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/turntables\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:54.654Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/turntables",
+	"url": "https://warehouse-theme-metal.myshopify.com/collections/turntables"
+}

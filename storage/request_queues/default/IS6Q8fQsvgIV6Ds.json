@@ -1,0 +1,9 @@
+{
+	"id": "IS6Q8fQsvgIV6Ds",
+	"json": "{\"id\":\"IS6Q8fQsvgIV6Ds\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-09-24T17:49:38.179Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections",
+	"url": "https://warehouse-theme-metal.myshopify.com/collections"
+}

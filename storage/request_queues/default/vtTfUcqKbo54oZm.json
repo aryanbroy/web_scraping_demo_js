@@ -1,0 +1,9 @@
+{
+	"id": "vtTfUcqKbo54oZm",
+	"json": "{\"id\":\"vtTfUcqKbo54oZm\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/subwoofers\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/subwoofers\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/subwoofers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:51.551Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/subwoofers",
+	"url": "https://warehouse-theme-metal.myshopify.com/collections/subwoofers"
+}

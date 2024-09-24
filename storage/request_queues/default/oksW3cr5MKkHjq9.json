@@ -1,0 +1,9 @@
+{
+	"id": "oksW3cr5MKkHjq9",
+	"json": "{\"id\":\"oksW3cr5MKkHjq9\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/sound-bars\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/sound-bars\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/sound-bars\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:50.150Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/sound-bars",
+	"url": "https://warehouse-theme-metal.myshopify.com/collections/sound-bars"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "4IYKQaWgaJQIV6S",
+	"json": "{\"id\":\"4IYKQaWgaJQIV6S\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/professional-audio\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/professional-audio\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/professional-audio\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:48.579Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/professional-audio",
+	"url": "https://warehouse-theme-metal.myshopify.com/collections/professional-audio"
+}

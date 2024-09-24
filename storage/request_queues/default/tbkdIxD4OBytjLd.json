@@ -1,0 +1,9 @@
+{
+	"id": "tbkdIxD4OBytjLd",
+	"json": "{\"id\":\"tbkdIxD4OBytjLd\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/walkmans\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/walkmans\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/walkmans\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:54.618Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/walkmans",
+	"url": "https://warehouse-theme-metal.myshopify.com/collections/walkmans"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "DgZ8Iug1uVEEbOa",
+	"json": "{\"id\":\"DgZ8Iug1uVEEbOa\",\"url\":\"https://warehouse-theme-metal.myshopify.com/collections/tv-accessories\",\"loadedUrl\":\"https://warehouse-theme-metal.myshopify.com/collections/tv-accessories\",\"uniqueKey\":\"https://warehouse-theme-metal.myshopify.com/collections/tv-accessories\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"CATEGORY\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-09-24T17:49:53.761Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://warehouse-theme-metal.myshopify.com/collections/tv-accessories",
+	"url": "https://warehouse-theme-metal.myshopify.com/collections/tv-accessories"
+}
